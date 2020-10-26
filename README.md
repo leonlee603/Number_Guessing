@@ -6,4 +6,4 @@ Player will know the amount of guesses remaining for every time they input a val
 And they will have winning message when they guess correctly or lose when they can't guess the correct within 3 trials.<br>
 
 Live Demo:<br>
-https://leonlee603.github.io/To_Do_List_With_Filter/
+https://leonlee603.github.io/Number_Guessing/
